@@ -36,7 +36,7 @@ It also has few useful settings like you can include/exclude public post types t
 * Translation ready
 * Alert message settings
 
-You can find more [here](http://harishchaudhari.com/projects/wp-lucky-search/)
+You can find more [here.](http://harishchaudhari.com/projects/wp-lucky-search/)
 
 
 ## Installation ##
@@ -51,7 +51,7 @@ You can find more [here](http://harishchaudhari.com/projects/wp-lucky-search/)
 
 ### Do you have any question? ###
 
-Please use plugin [support forum](http://wordpress.org/support/plugins/wp-lucky-search/) 
+Please use plugin [support forum.](http://wordpress.org/support/plugins/wp-lucky-search/) 
 
 
 ## Screenshots ##

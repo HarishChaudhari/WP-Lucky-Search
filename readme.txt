@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a Google like I'm feeling lucky button to the WordPress Search form and redirects to the random post depending upon search term. It also has few useful settings.
+Adds a Google like I'm feeling lucky button to the WordPress Search form and redirects to the random post depending upon search term.
 
 == Description ==
 WP Lucky Search adds a Google like I'm feeling lucky button to the WordPress Search form and redirects to the random post depending upon search term.
@@ -26,7 +26,7 @@ It also has few useful settings like you can include/exclude public post types t
 * Translation ready
 * Alert message settings
 
-You can find more [here](http://harishchaudhari.com/projects/wp-lucky-search/)
+You can find more [here.](http://harishchaudhari.com/projects/wp-lucky-search/)
 
 == Installation ==
 
@@ -39,7 +39,7 @@ You can find more [here](http://harishchaudhari.com/projects/wp-lucky-search/)
 
 = Do you have any question? =
 
-Please use plugin [support forum](http://wordpress.org/support/plugins/wp-lucky-search/) 
+Please use plugin [support forum.](http://wordpress.org/support/plugins/wp-lucky-search/) 
 
 == Screenshots ==
 1. WP Lucky Search settings page
