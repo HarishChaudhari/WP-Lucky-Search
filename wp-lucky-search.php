@@ -4,7 +4,7 @@
  * Plugin Name: WP Lucky Search
  * Plugin URI: http://harishchaudhari.com/projects/wp-lucky-search/
  * Description: Adds a Google like I'm feeling lucky button to the WordPress Search form, and redirects to the random post. It also has few settings.
- * Tags: Search, feeling lucky, google, wordpress, random, post, page, seo, analytics
+ * Tags: Search, advance search, I'm feeling lucky, lucky, google, wordpress, random, post, page, seo, analytics, bounce rate
  * Version: 1.0
  * Author: Harish Chaudhari
  * Author URI: http://harishchaudhari.com/

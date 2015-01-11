@@ -39,6 +39,11 @@ class WPLS_Main {
          */
         $this->wpls_textdomain = 'wpls';
         
+        /**
+         * Get settings of WP Lucky Search
+         * 
+         * @var string Store setting array of WP Lucky Search
+         */
         $this->wpls_settings = $this->wpls_get_settings();
         
         /**
