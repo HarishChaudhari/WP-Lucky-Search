@@ -42,7 +42,7 @@ You can find more [here.](http://harishchaudhari.com/projects/wp-lucky-search/)
 Please use plugin [support forum.](http://wordpress.org/support/plugins/wp-lucky-search/) 
 
 == Screenshots ==
-1. WP Lucky Search settings page
+![WP Lucky Search settings page](assets/screenshot-1.png)
 
 == Changelog ==
 
